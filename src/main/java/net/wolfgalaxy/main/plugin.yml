@@ -1,0 +1,9 @@
+name: WolfGalaxy
+author: jas777
+version: 2.0
+main: net.wolfgalaxy.main.Main.WolfGalaxy
+commands:
+  wg:
+    description: Main command
+  wgbrb:
+    description: Better AFK command
